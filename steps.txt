@@ -1,0 +1,47 @@
+*==Project setup using uv and git==*
+*--Objective:-
+* 1. Change default uv paths from %APPDATA%, %USERPROFILE% to d:\apps\uv
+*--Pre-requisites:-
+* 1. uv installed local PC
+*--Config:-
+* 1. Home directory: d:\temp\myapp
+*--Source:-
+* ChatGPT link: 
+*=====*
+*==Index-Steps==*
+@Step-1: 
+@Step-2: 
+
+*==Details-Steps==*
+>> @Step-1: ...
+> 
+*---Outcome
+>
+*---Note
+>
+*-----*
+>> @Step-2: ...
+> 
+*---Outcome
+>
+*---Note
+>
+*-----*
+
+**==Issues Note==**
+>> 1. ...
+*--Resolution
+> ...
+*--Note
+> ...
+> ChatGPT link: ...
+*-----*
+
+
+**==References==**
+[01] ...
+
+**==Version==**
+* CTD: 20250930_1250
+* LUD: 20251005_0824
+**=====**
