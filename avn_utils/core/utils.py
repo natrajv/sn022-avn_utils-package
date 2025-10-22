@@ -8,3 +8,10 @@ def get_mytimestamp():
 	formatted_time = current_time.strftime("%Y%m%d_%H%M")
 
 	return formatted_time
+
+'''
+* Example usage:
+import avn_utils.core.utils as myutils
+print(myutils.get_mytimestamp())
+* This will print the current timestamp in the format yyyymmdd_hhmm
+'''
